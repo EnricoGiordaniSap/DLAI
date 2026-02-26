@@ -1,4 +1,9 @@
-pytdlaienv/
+venv/
 __pycache__/
 *.pyc
+
+data/
+*.pth
+*.onnx
+outputs/
 

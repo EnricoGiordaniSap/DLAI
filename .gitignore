@@ -1,0 +1,4 @@
+pytdlaienv/
+__pycache__/
+*.pyc
+

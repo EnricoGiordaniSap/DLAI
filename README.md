@@ -1,3 +1,3 @@
 # Mio Progetto 
--m python venv venv
+python -m venv venv
 venv\Scripts\activate 
